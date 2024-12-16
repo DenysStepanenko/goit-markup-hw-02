@@ -1,4 +1,79 @@
-.title {
-    color: red;
+body {
+   font-family: "Roboto", "Raleway", "sans-serif";
+   color: #2E2F42;
+   background-color: #ffffff;
+   font-size: 16px;
+
 }
-         
+ul,
+ol {
+   list-style: none;  /* Убираем маркеры */
+   padding: 0;  /* Убираем отступы */
+   margin: 0;  /* Убираем внешние отступы */
+}
+.page-nav .link {
+   color: #2E2F42;
+}
+.page-nav .link:hover, .page-nav .link:focus {
+   color: #404BBF;
+}
+.page-nav .link:active {
+   color: #404BBF;
+}
+.address .contacts {
+   color: #434455;
+}
+.address .contacts:hover, .address .contacts:focus {
+   color: #404BBF;
+}
+button {
+   background-color: #4D5AE5;
+   color: #ffffff;
+   font-size: 16px;
+   line-height: 24px;
+}
+button:hover {
+   color: #404BBF;
+}
+.page-title {
+   font-size: 56px;
+   line-height: 60px;
+   font-weight: 700;
+   text-align: center;
+   color: #ffffff;
+}
+.section1 {
+   background-color: #2E2F42;
+}
+.header2 {
+   font-size: 36px;
+   line-height: 40px;
+   font-weight: 700;
+   text-align: center;
+}
+.section3 {
+   background-color: #f4f4fd;
+}
+.header3 {
+   font-size: 20px;
+   line-height: 24px;
+   font-weight: 500;
+   letter-spacing: 2%;
+}
+.text-section {
+   font-size: 16px;
+   line-height: 24px;
+   font-weight: 400;
+   color: #434455;
+   letter-spacing: 2%;
+}
+footer {
+   background-color: #2E2F42;
+}
+.text-footer {
+   font-size: 16px;
+   line-height: 24px;
+   font-weight: 400;
+   color: #F4F4FD;
+   letter-spacing: 2%;
+}
