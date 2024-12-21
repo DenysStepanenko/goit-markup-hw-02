@@ -28,17 +28,17 @@ ol {
 .logo-footer {
    color: #f4f4fd;
 }
-.page-nav {
+.page-nav .link {
    font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #2E2F42;
 }
-.page-nav:hover, .page-nav:focus {
+.page-nav .link:hover, .page-nav .link:focus {
    color: #404BBF;
 }
-.page-nav:active {
+.page-nav .link:active {
    color: #404BBF;
 }
 .address {
