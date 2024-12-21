@@ -8,11 +8,7 @@ body {
 ul,
 ol {
    list-style: none;
-   /* Убираем маркеры */
-   padding: 0;
-   /* Убираем отступы */
-   margin: 0;
-   /* Убираем внешние отступы */
+ 
 }
 a {
    text-decoration: none;
